@@ -1,0 +1,3 @@
+# KiosPediaAndroid
+KiosPediaAndroid
+Aplikasi KiosPedia
